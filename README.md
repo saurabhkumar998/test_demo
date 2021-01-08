@@ -1,1 +1,1 @@
-#git and github demo repository
+#git and github demo
